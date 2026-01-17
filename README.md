@@ -2,6 +2,9 @@
 
 HRMS Lite is a lightweight Human Resource Management System that allows an admin to manage employee records and track daily attendance through a modern web interface. It is designed as a small but realistic full-stack HR tool with clear separation between frontend and backend. 
 
+Frontend URL: https://hrms-lite-xi-one.vercel.app/  
+Backend URL: https://hrmslite-production.up.railway.app/
+
 ---
 
 ## Project Overview
